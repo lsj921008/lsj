@@ -2,5 +2,5 @@
 
 main() {
 
-    printf("ù�C��\n");
+    printf("Ã¹·C³Ç\n");
 }
