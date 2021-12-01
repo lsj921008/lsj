@@ -4,7 +4,7 @@ int main() {
 
     int input;
 
-    printf("¨C¿é¤J¤@­Ó¼Æ¦r¡Aµ{¦¡·|¦A¦L¥X¬Û¦Pªº¼Æ¦r¡C\n");
+    printf("æ¯è¼¸å…¥ä¸€å€‹æ•¸å­—ï¼Œç¨‹å¼æœƒå†å°å‡ºç›¸åŒçš„æ•¸å­—ã€‚\n");
     //fill some condition into the following while loop
     //only ONE line code is you need
     //please refer page 4 of homework request
